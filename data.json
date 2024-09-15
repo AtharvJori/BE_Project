@@ -1,0 +1,836 @@
+{
+    "search_metadata": {
+        "id": "66e3e60ff7adbfb2bf77ae8f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/566cdf0f449abd9a/66e3e60ff7adbfb2bf77ae8f.json",
+        "created_at": "2024-09-13 07:13:19 UTC",
+        "processed_at": "2024-09-13 07:13:19 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/temples+in+pune?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/566cdf0f449abd9a/66e3e60ff7adbfb2bf77ae8f.html",
+        "total_time_taken": 1.61
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "temples in pune",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "temples in pune"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Shreemant Dagdusheth Halwai Ganpati Temple",
+            "place_id": "ChIJ_0K0pW_AwjsR4bxItvVl850",
+            "data_id": "0x3bc2c06fa5b442ff:0x9df365f5b648bce1",
+            "data_cid": "11381552789294988513",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c06fa5b442ff%3A0x9df365f5b648bce1&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c06fa5b442ff%3A0x9df365f5b648bce1&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5164297,
+                "longitude": 73.85613289999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_0K0pW_AwjsR4bxItvVl850",
+            "provider_id": "/m/04zxxlg",
+            "rating": 4.8,
+            "reviews": 163848,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Religious organization",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "religious_organization",
+                "tourist_attraction"
+            ],
+            "address": "Ganpati Bhavan, 250, Chhatrapati Shivaji Maharaj Rd, Mehunpura, Budhwar Peth, Pune, Maharashtra 411002, India",
+            "open_state": "Open \u22c5 Closes 11\u202fPM",
+            "hours": "Open \u22c5 Closes 11\u202fPM",
+            "operating_hours": {
+                "friday": "5:30\u202fAM\u201311\u202fPM",
+                "saturday": "5:30\u202fAM\u201311\u202fPM",
+                "sunday": "5:30\u202fAM\u201311\u202fPM",
+                "monday": "5:30\u202fAM\u201311\u202fPM",
+                "tuesday": "5:30\u202fAM\u201311\u202fPM",
+                "wednesday": "5:30\u202fAM\u201311\u202fPM",
+                "thursday": "5:30\u202fAM\u201311\u202fPM"
+            },
+            "phone": "+91 20 2447 9222",
+            "website": "http://www.dagdushethganpati.com/",
+            "description": "Hindu temple with large gold Ganesh idol. Hindu temple popular with pilgrims, with marble interiors & a golden Ganesh idol.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMq9qFWANIwhn4_FPCh3Q32lzEm26m5XNQYcgon=w122-h92-k-no"
+        },
+        {
+            "position": 2,
+            "title": "ISKCON NVCC Pune",
+            "place_id": "ChIJSdctqfvqwjsR7tcJvlsbul4",
+            "data_id": "0x3bc2eafba92dd749:0x5eba1b5bbe09d7ee",
+            "data_cid": "6825798266077698030",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2eafba92dd749%3A0x5eba1b5bbe09d7ee&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2eafba92dd749%3A0x5eba1b5bbe09d7ee&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.4479075,
+                "longitude": 73.8806802
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSdctqfvqwjsR7tcJvlsbul4",
+            "provider_id": "/m/0v3g7rc",
+            "rating": 4.7,
+            "reviews": 31943,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Food court",
+                "Outlet mall",
+                "Recreation center",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "food_court",
+                "outlet_mall",
+                "recreation_center",
+                "tourist_attraction"
+            ],
+            "address": "ISKCON TEMPLE AND NVCC, Katraj - Kondhwa Rd, Tilekar Nagar, Kondhwa Budruk, Pune, Maharashtra 411048, India",
+            "open_state": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4:30\u202fPM",
+            "hours": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4:30\u202fPM",
+            "operating_hours": {
+                "friday": "4:30\u20135\u202fAM",
+                "saturday": "4:30\u20135\u202fAM",
+                "sunday": "4:30\u20135\u202fAM",
+                "monday": "4:30\u20135\u202fAM",
+                "tuesday": "4:30\u20135\u202fAM",
+                "wednesday": "4:30\u20135\u202fAM",
+                "thursday": "4:30\u20135\u202fAM"
+            },
+            "phone": "+91 84118 45000",
+            "website": "https://www.iskconpune.com/",
+            "description": "Grand temple dedicated to Radha Krishna. Opulent temple devoted to Radha Krishna featuring a golden dome & chandeliers, plus a veranda.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMbarRPDbvg26SAEuUl5i6-S8BCDtTLteZLceS-=w122-h92-k-no"
+        },
+        {
+            "position": 3,
+            "title": "Shri Omkareshwar Temple, Pune",
+            "place_id": "ChIJ45xFN3rAwjsR2V37jJhvZJA",
+            "data_id": "0x3bc2c07a37459ce3:0x90646f988cfb5dd9",
+            "data_cid": "10404563740123684313",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c07a37459ce3%3A0x90646f988cfb5dd9&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c07a37459ce3%3A0x90646f988cfb5dd9&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.519900099999997,
+                "longitude": 73.8489738
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ45xFN3rAwjsR2V37jJhvZJA",
+            "provider_id": "/g/1tk61kl0",
+            "rating": 4.7,
+            "reviews": 5569,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "tourist_attraction"
+            ],
+            "address": "Balgandharva Bridge, 233 Near, Chandrashekhar Govind Aapte Rd, Shaniwar Peth, Pune, Maharashtra 411030, India",
+            "open_state": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4\u202fPM",
+            "hours": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4\u202fPM",
+            "operating_hours": {
+                "friday": "6\u202fAM\u20131\u202fPM",
+                "saturday": "6\u202fAM\u20131\u202fPM",
+                "sunday": "6\u202fAM\u20131\u202fPM",
+                "monday": "6\u202fAM\u20131\u202fPM",
+                "tuesday": "6\u202fAM\u20131\u202fPM",
+                "wednesday": "6\u202fAM\u20131\u202fPM",
+                "thursday": "6\u202fAM\u20131\u202fPM"
+            },
+            "website": "https://www.shreeomkareshwartemple.org/",
+            "description": "Centuries-old, riverfront temple. This 18th-century Hindu temple has onion-shaped domes & other traditional architectural features.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNAXUmj3YrvAm4LVj1zQT_HmZSvEUZDR3PtM6oJ=w122-h92-k-no"
+        },
+        {
+            "position": 4,
+            "title": "Shri Chatushrungi Devi Temple",
+            "place_id": "ChIJiQOngXe_wjsRXqB1ICYKi3Y",
+            "data_id": "0x3bc2bf7781a70389:0x768b0a262075a05e",
+            "data_cid": "8541932277107892318",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2bf7781a70389%3A0x768b0a262075a05e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2bf7781a70389%3A0x768b0a262075a05e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5390549,
+                "longitude": 73.8283972
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiQOngXe_wjsRXqB1ICYKi3Y",
+            "provider_id": "/m/02x4tgf",
+            "rating": 4.7,
+            "reviews": 14354,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple"
+            ],
+            "address": "971, Senapati Bapat Rd, Sheti Mahamandal, Shivaji Co operative Housing Society, Ramoshivadi, Gokhalenagar, Pune, Maharashtra 411016, India",
+            "open_state": "Open \u22c5 Closes 9\u202fPM",
+            "hours": "Open \u22c5 Closes 9\u202fPM",
+            "operating_hours": {
+                "friday": "8\u202fAM\u20139\u202fPM",
+                "saturday": "8\u202fAM\u20139\u202fPM",
+                "sunday": "8\u202fAM\u20139\u202fPM",
+                "monday": "8\u202fAM\u20139\u202fPM",
+                "tuesday": "8\u202fAM\u20139\u202fPM",
+                "wednesday": "8\u202fAM\u20139\u202fPM",
+                "thursday": "8\u202fAM\u20139\u202fPM"
+            },
+            "website": "http://chatushrungidevi.com/",
+            "description": "Hillside temple with a steep ascent. Hillside Hindu temple known for its steep entrance steps, vibrant facade & landscaped gardens.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSOM5v2u1RhmOvrpDGnDq9AkNG4btq5EMtsJBy=w80-h142-k-no"
+        },
+        {
+            "position": 5,
+            "title": "Shri Mahalaxmi Mandir, Pune",
+            "place_id": "ChIJdSya5BHAwjsRMdxtJDBOIUQ",
+            "data_id": "0x3bc2c011e49a2c75:0x44214e30246ddc31",
+            "data_cid": "4909291037487127601",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c011e49a2c75%3A0x44214e30246ddc31&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c011e49a2c75%3A0x44214e30246ddc31&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.49999,
+                "longitude": 73.85407719999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdSya5BHAwjsRMdxtJDBOIUQ",
+            "provider_id": "/g/11b6jgk_p5",
+            "rating": 4.8,
+            "reviews": 3099,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "tourist_attraction"
+            ],
+            "address": "Plot No. 38/B, opposite Sarasbaug, Dadawadi, Shukrawar Peth, Pune, Maharashtra 411002, India",
+            "open_state": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4\u202fPM",
+            "hours": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4\u202fPM",
+            "operating_hours": {
+                "friday": "6\u202fAM\u20131\u202fPM",
+                "saturday": "6\u202fAM\u20131\u202fPM",
+                "sunday": "6\u202fAM\u20131\u202fPM",
+                "monday": "6\u202fAM\u20131\u202fPM",
+                "tuesday": "6\u202fAM\u20131\u202fPM",
+                "wednesday": "6\u202fAM\u20131\u202fPM",
+                "thursday": "6\u202fAM\u20131\u202fPM"
+            },
+            "website": "http://mahalaxmimandirpune.org/",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPo2F-k0AgPmShv3LpnxnqzlGIkUu5w6YD6CQSd=w163-h92-k-no"
+        },
+        {
+            "position": 6,
+            "title": "BAPS Shri Swaminarayan temple Narhe - Pune",
+            "place_id": "ChIJG00XWtqVwjsRs0vgrOLuRSQ",
+            "data_id": "0x3bc295da5a174d1b:0x2445eee2ace04bb3",
+            "data_cid": "2613757816088841139",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc295da5a174d1b%3A0x2445eee2ace04bb3&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc295da5a174d1b%3A0x2445eee2ace04bb3&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.4420753,
+                "longitude": 73.83648409999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG00XWtqVwjsRs0vgrOLuRSQ",
+            "provider_id": "/g/11h_2lj36j",
+            "rating": 4.7,
+            "reviews": 12363,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple"
+            ],
+            "address": "A1-B1, Mumbai-Bengaluru National Higway, 4, Narhe Ambegaon Rd, Narhe, Pune, Maharashtra 411041, India",
+            "open_state": "Closed \u22c5 Opens 4\u202fPM",
+            "hours": "Closed \u22c5 Opens 4\u202fPM",
+            "operating_hours": {
+                "friday": "7\u202fAM\u201312\u202fPM",
+                "saturday": "7\u202fAM\u201312\u202fPM",
+                "sunday": "7\u202fAM\u201312\u202fPM",
+                "monday": "7\u202fAM\u201312\u202fPM",
+                "tuesday": "7\u202fAM\u201312\u202fPM",
+                "wednesday": "7\u202fAM\u201312\u202fPM",
+                "thursday": "7\u202fAM\u201312\u202fPM"
+            },
+            "phone": "+91 89999 18999",
+            "website": "http://www.baps.org/pune",
+            "description": "Grand temple built on ancient designs. Ancient Vedic texts provided a steel-free design scheme for this landmark, towering temple complex.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPy_izwfk9WUxM49myNtM5VK1WaqwA9MbpwSH6D=w163-h92-k-no"
+        },
+        {
+            "position": 7,
+            "title": "Wagheshwar Temple",
+            "place_id": "ChIJ83ttOjnGwjsRWeipP0aGay8",
+            "data_id": "0x3bc2c6393a6d7bf3:0x2f6b86463fa9e859",
+            "data_cid": "3416972378564585561",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c6393a6d7bf3%3A0x2f6b86463fa9e859&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c6393a6d7bf3%3A0x2f6b86463fa9e859&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5815211,
+                "longitude": 73.9786381
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ83ttOjnGwjsRWeipP0aGay8",
+            "provider_id": "/g/1tk21cnh",
+            "rating": 4.7,
+            "reviews": 11765,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "tourist_attraction"
+            ],
+            "address": "Wageshwar Temple Rd, Wagholi, Charholi Budruk, Pune, Maharashtra 412105, India",
+            "open_state": "Closed \u22c5 Opens 4\u202fPM",
+            "hours": "Closed \u22c5 Opens 4\u202fPM",
+            "operating_hours": {
+                "friday": "8\u202fAM\u201312\u202fPM",
+                "saturday": "8\u202fAM\u201312\u202fPM",
+                "sunday": "8\u202fAM\u201312\u202fPM",
+                "monday": "8\u202fAM\u201312\u202fPM",
+                "tuesday": "8\u202fAM\u201312\u202fPM",
+                "wednesday": "8\u202fAM\u201312\u202fPM",
+                "thursday": "8\u202fAM\u201312\u202fPM"
+            },
+            "description": "Black rock-carved temple by a lake. Elaborate temple carved out of black basalt with a colorful gopuram tower, overlooking a lake.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOwk3nPPiKoja9lsbt4KAJ2JknT__vrDkzUNCTl=w169-h92-k-no"
+        },
+        {
+            "position": 8,
+            "title": "Shree Nageshwar Shiv Mandir",
+            "place_id": "ChIJUyQesGfAwjsRi-ZWzAKcwak",
+            "data_id": "0x3bc2c067b01e2453:0xa9c19c02cc56e68b",
+            "data_cid": "12232229598747092619",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c067b01e2453%3A0xa9c19c02cc56e68b&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c067b01e2453%3A0xa9c19c02cc56e68b&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5211462,
+                "longitude": 73.8633162
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUyQesGfAwjsRi-ZWzAKcwak",
+            "provider_id": "/g/11c48s24rk",
+            "rating": 4.6,
+            "reviews": 518,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple"
+            ],
+            "address": "GVC7+F84, Somwar Peth, Pune, Maharashtra 411011, India",
+            "phone": "+91 20 2550 1000",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJCUopKOXxs94hsVfAy-C8s8hH_qKpOGi-nCDZ=w80-h106-k-no"
+        },
+        {
+            "position": 9,
+            "title": "Shri Siddhivinayak Ganesh Mandir Sarasbaug",
+            "place_id": "ChIJd-Wy4g3AwjsRnlJqTKagdlM",
+            "data_id": "0x3bc2c00de2b2e577:0x5376a0a64c6a529e",
+            "data_cid": "6014170988506927774",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c00de2b2e577%3A0x5376a0a64c6a529e&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c00de2b2e577%3A0x5376a0a64c6a529e&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.500894499999998,
+                "longitude": 73.85305009999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd-Wy4g3AwjsRnlJqTKagdlM",
+            "provider_id": "/g/1v1tljrr",
+            "rating": 4.6,
+            "reviews": 14852,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Park"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "park"
+            ],
+            "address": "Survey no 2170, Saras Baug Rd, opp. Nehru Stadium, Saras Baug, Sadashiv Peth, Pune, Maharashtra 411030, India",
+            "open_state": "Open \u22c5 Closes 10\u202fPM",
+            "hours": "Open \u22c5 Closes 10\u202fPM",
+            "operating_hours": {
+                "friday": "6\u202fAM\u201310\u202fPM",
+                "saturday": "6\u202fAM\u201310\u202fPM",
+                "sunday": "6\u202fAM\u201310\u202fPM",
+                "monday": "6\u202fAM\u201310\u202fPM",
+                "tuesday": "6\u202fAM\u201310\u202fPM",
+                "wednesday": "6\u202fAM\u201310\u202fPM",
+                "thursday": "6\u202fAM\u201310\u202fPM"
+            },
+            "phone": "+91 89287 20415",
+            "description": "Hindu temple with a lake & a garden. Hindu temple from the 18th-century featuring a tropical garden & a lake, dedicated to Ganesha.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOYIGSRYU58Z3Bg0kKBRuA801lf3UX2JwyM1y1c=w122-h92-k-no"
+        },
+        {
+            "position": 10,
+            "title": "Shree Devdeveshwar Temple (Parvati Temple)",
+            "place_id": "ChIJK3EUKQnAwjsR8sgehTShT5E",
+            "data_id": "0x3bc2c0092914712b:0x914fa134851ec8f2",
+            "data_cid": "10470764905603451122",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c0092914712b%3A0x914fa134851ec8f2&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c0092914712b%3A0x914fa134851ec8f2&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.497573199999998,
+                "longitude": 73.84717169999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJK3EUKQnAwjsR8sgehTShT5E",
+            "provider_id": "/g/1tx13tyg",
+            "rating": 4.5,
+            "reviews": 4495,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Hiking area",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "hiking_area",
+                "tourist_attraction"
+            ],
+            "address": "FRXW+2VF, Parvati Hills, Parvati Paytha, Pune, Maharashtra 411009, India",
+            "description": "Temple complex atop Parvati Hill. Temple cluster from Peshwa regime on Parvati Hill, reached by 103 black stone steps.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNy3l_sVMSLXDRSNXPr6HNgLYjj-UB1FNZ8QDDs=w80-h106-k-no"
+        },
+        {
+            "position": 11,
+            "title": "Tulshibaug Shri Ram Mandir",
+            "place_id": "ChIJlz9Oam7AwjsRSAU54ATRZ64",
+            "data_id": "0x3bc2c06e6a4e3f97:0xae67d104e0390548",
+            "data_cid": "12567243104072566088",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c06e6a4e3f97%3A0xae67d104e0390548&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c06e6a4e3f97%3A0xae67d104e0390548&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5137617,
+                "longitude": 73.85536479999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlz9Oam7AwjsRSAU54ATRZ64",
+            "provider_id": "/g/1tdx74p3",
+            "rating": 4.7,
+            "reviews": 1498,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "tourist_attraction"
+            ],
+            "address": "103, Tulshibaug Internal Rd, near Jilbya Maruti Mandal, Tulshibaug, Budhwar Peth, Pune, Maharashtra 411002, India",
+            "open_state": "Open \u22c5 Closes 8:30\u202fPM",
+            "hours": "Open \u22c5 Closes 8:30\u202fPM",
+            "operating_hours": {
+                "friday": "7\u202fAM\u20138:30\u202fPM",
+                "saturday": "7\u202fAM\u20138:30\u202fPM",
+                "sunday": "7\u202fAM\u20138:30\u202fPM",
+                "monday": "7\u202fAM\u20138:30\u202fPM",
+                "tuesday": "7\u202fAM\u20138:30\u202fPM",
+                "wednesday": "7\u202fAM\u20138:30\u202fPM",
+                "thursday": "7\u202fAM\u20138:30\u202fPM"
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOLADG5ic9Q8T_aNNMbOAPIomlOh-oQYPiODVBX=w122-h92-k-no"
+        },
+        {
+            "position": 12,
+            "title": "Bhuleshwar Temple",
+            "place_id": "ChIJ5ctMUg0ewzsRypqw9G3-fPQ",
+            "data_id": "0x3bc31e0d524ccbe5:0xf47cfe6df4b09aca",
+            "data_cid": "17617235590576642762",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc31e0d524ccbe5%3A0xf47cfe6df4b09aca&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc31e0d524ccbe5%3A0xf47cfe6df4b09aca&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.436003499999998,
+                "longitude": 74.2411621
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ5ctMUg0ewzsRypqw9G3-fPQ",
+            "provider_id": "/m/0g18d7",
+            "rating": 4.8,
+            "reviews": 8058,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "tourist_attraction"
+            ],
+            "address": "Bhuleshwar Road, Malshiras, Bhuleswar Nagar, Maharashtra 412104, India",
+            "open_state": "Open \u22c5 Closes 8\u202fPM",
+            "hours": "Open \u22c5 Closes 8\u202fPM",
+            "operating_hours": {
+                "friday": "5\u202fAM\u20138\u202fPM",
+                "saturday": "5\u202fAM\u20138\u202fPM",
+                "sunday": "5\u202fAM\u20138\u202fPM",
+                "monday": "5\u202fAM\u20139\u202fPM",
+                "tuesday": "5\u202fAM\u20138\u202fPM",
+                "wednesday": "5\u202fAM\u20138\u202fPM",
+                "thursday": "5\u202fAM\u20138\u202fPM"
+            },
+            "phone": "+91 98819 82019",
+            "description": "Shiva temple in a tranquil hilltop spot. Hilltop temple devoted to the god Shiva & containing intricate stone carvings & statues.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPd2GLAY-oGSpDz4zyY0JtjGyFxuDoxKEcqXerz=w122-h92-k-no"
+        },
+        {
+            "position": 13,
+            "title": "ISKCON Pune Camp",
+            "place_id": "ChIJud3T2U_AwjsRABe9wpfghek",
+            "data_id": "0x3bc2c04fd9d3ddb9:0xe985e097c2bd1700",
+            "data_cid": "16827102525151581952",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c04fd9d3ddb9%3A0xe985e097c2bd1700&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c04fd9d3ddb9%3A0xe985e097c2bd1700&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5203582,
+                "longitude": 73.8796204
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJud3T2U_AwjsRABe9wpfghek",
+            "provider_id": "/g/1tgz3y63",
+            "rating": 4.7,
+            "reviews": 10670,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Place of worship",
+                "Spiritist center",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "place_of_worship",
+                "spiritist_center",
+                "tourist_attraction"
+            ],
+            "address": "4, Colonel Tarapore Rd, beside Dastoor Boys School, Camp, Pune, Maharashtra 411001, India",
+            "open_state": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4:30\u202fPM",
+            "hours": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4:30\u202fPM",
+            "operating_hours": {
+                "friday": "4:30\u202fAM\u20131\u202fPM",
+                "saturday": "4:30\u202fAM\u20131\u202fPM",
+                "sunday": "4:30\u202fAM\u20131\u202fPM",
+                "monday": "4:30\u202fAM\u20131\u202fPM",
+                "tuesday": "4:30\u202fAM\u20131\u202fPM",
+                "wednesday": "4:30\u202fAM\u20131\u202fPM",
+                "thursday": "4:30\u202fAM\u20131\u202fPM"
+            },
+            "phone": "+91 80075 00175",
+            "website": "https://iskconpunecamp.com/",
+            "description": "Hindu temple with festivals & a bakery. Hindu temple offering multiple festivals & family activities, plus a bakery & a gift shop.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO6PvUxeAd2iTtKlA6IbOMsBeiIaXodZDisRCxq=w163-h92-k-no"
+        },
+        {
+            "position": 14,
+            "title": "Shree Ayyappa Temple",
+            "place_id": "ChIJO9dP20LAwjsR4JzurEiq9WU",
+            "data_id": "0x3bc2c042db4fd73b:0x65f5aa48acee9ce0",
+            "data_cid": "7346965596240518368",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c042db4fd73b%3A0x65f5aa48acee9ce0&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c042db4fd73b%3A0x65f5aa48acee9ce0&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5183465,
+                "longitude": 73.86832009999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO9dP20LAwjsR4JzurEiq9WU",
+            "provider_id": "/g/1tjjmtvp",
+            "rating": 4.6,
+            "reviews": 654,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "tourist_attraction"
+            ],
+            "address": "198, Maruti Temple Rd, Rasta Peth, Pune, Maharashtra 411011, India",
+            "open_state": "Closed \u22c5 Opens 6\u202fPM",
+            "hours": "Closed \u22c5 Opens 6\u202fPM",
+            "operating_hours": {
+                "friday": "5:30\u201310\u202fAM",
+                "saturday": "5:30\u201310\u202fAM",
+                "sunday": "5:30\u201310\u202fAM",
+                "monday": "5:30\u201310\u202fAM",
+                "tuesday": "5:30\u201310\u202fAM",
+                "wednesday": "5:30\u201310\u202fAM",
+                "thursday": "5:30\u201310\u202fAM"
+            },
+            "phone": "+91 20 2606 1435",
+            "description": "Opulent Hindu temple with a serene vibe. Ornate Hindu temple known for its spiritual, peaceful feel & special events within a busy market.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYkOZyKkOOVZOxE2fhGYvPdbBvcNwoaPO_4da0=w80-h106-k-no"
+        },
+        {
+            "position": 15,
+            "title": "Tulsi Baug Ganesh Mandal",
+            "place_id": "ChIJl0QoR27AwjsR4cBxGsaUM5A",
+            "data_id": "0x3bc2c06e47284497:0x903394c61a71c0e1",
+            "data_cid": "10390812343841964257",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c06e47284497%3A0x903394c61a71c0e1&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c06e47284497%3A0x903394c61a71c0e1&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5143006,
+                "longitude": 73.8554235
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl0QoR27AwjsR4cBxGsaUM5A",
+            "provider_id": "/g/1pp2twwnz",
+            "rating": 4.6,
+            "reviews": 26035,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "tourist_attraction"
+            ],
+            "address": "81, Budhwar Peth Rd, Tulshibaug, Budhwar Peth, Pune, Maharashtra 411002, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "description": "Peshwa temple complex from 18th century. Peshwa temple complex built in 18th century, with richly carved spire & bejeweled statues.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvMDXNzpTcEx5DY0NRX-6dhf8lQEy9X7Rx_fM=w80-h106-k-no"
+        },
+        {
+            "position": 16,
+            "title": "Shiv Temple",
+            "place_id": "ChIJG7j5zyDCwjsR6bQbtxT6eA0",
+            "data_id": "0x3bc2c220cff9b81b:0xd78fa14b71bb4e9",
+            "data_cid": "970800686576678121",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c220cff9b81b%3A0xd78fa14b71bb4e9&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c220cff9b81b%3A0xd78fa14b71bb4e9&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5186961,
+                "longitude": 73.9383582
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJG7j5zyDCwjsR6bQbtxT6eA0",
+            "provider_id": "/g/11g6xrlbph",
+            "rating": 4.7,
+            "reviews": 217,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple"
+            ],
+            "address": "GW9Q+F8H, S Tupe Path, Malwadi, Hadapsar, Pune, Maharashtra 411028, India",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours",
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours"
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMPvBGHPdgeRfj5MqnvppPVlwkOa3JANDwNc-Ev=w122-h92-k-no"
+        },
+        {
+            "position": 17,
+            "title": "Shree Trishunda Ganpati Mandir",
+            "place_id": "ChIJ36EM-GbAwjsRHba_oTh07ys",
+            "data_id": "0x3bc2c066f80ca1df:0x2bef7438a1bfb61d",
+            "data_cid": "3165876849645434397",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c066f80ca1df%3A0x2bef7438a1bfb61d&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c066f80ca1df%3A0x2bef7438a1bfb61d&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5216712,
+                "longitude": 73.86184039999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ36EM-GbAwjsRHba_oTh07ys",
+            "provider_id": "/g/1261dghc8",
+            "rating": 4.7,
+            "reviews": 1011,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Tourist attraction"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "tourist_attraction"
+            ],
+            "address": "GVC6+MP8, Somwar Peth, Pune, Maharashtra 411002, India",
+            "open_state": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4\u202fPM",
+            "hours": "Closes soon \u22c5 1\u202fPM \u22c5 Reopens 4\u202fPM",
+            "operating_hours": {
+                "friday": "7\u202fAM\u20131\u202fPM",
+                "saturday": "7\u202fAM\u20131\u202fPM",
+                "sunday": "7\u202fAM\u20131\u202fPM",
+                "monday": "7\u202fAM\u20131\u202fPM",
+                "tuesday": "7\u202fAM\u20131\u202fPM",
+                "wednesday": "7\u202fAM\u20131\u202fPM",
+                "thursday": "7\u202fAM\u20131\u202fPM"
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzguSi5N2tBP6MAqaezdBX6B0EsuSxa3b6sqHy=w80-h106-k-no"
+        },
+        {
+            "position": 18,
+            "title": "Shree Shiva Temple",
+            "place_id": "ChIJcyilYvDBwjsRFKpoh4-D1xQ",
+            "data_id": "0x3bc2c1f062a52873:0x14d7838f8768aa14",
+            "data_cid": "1501813653226695188",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2c1f062a52873%3A0x14d7838f8768aa14&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2c1f062a52873%3A0x14d7838f8768aa14&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.5022509,
+                "longitude": 73.92745719999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcyilYvDBwjsRFKpoh4-D1xQ",
+            "provider_id": "/g/1tpf5lgh",
+            "rating": 4.6,
+            "reviews": 294,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple"
+            ],
+            "address": "Om Balaji Darshan, C2-1, Solapur Rd, Hadapsar Gaon, Hadapsar, Pune, Maharashtra 411028, India",
+            "open_state": "Closed \u22c5 Opens 4\u202fPM",
+            "hours": "Closed \u22c5 Opens 4\u202fPM",
+            "operating_hours": {
+                "friday": "7\u202fAM\u201312\u202fPM",
+                "saturday": "7\u202fAM\u201312\u202fPM",
+                "sunday": "7\u202fAM\u201312\u202fPM",
+                "monday": "7\u202fAM\u201312\u202fPM",
+                "tuesday": "7\u202fAM\u201312\u202fPM",
+                "wednesday": "7\u202fAM\u201312\u202fPM",
+                "thursday": "7\u202fAM\u201312\u202fPM"
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNxFVSAeidsfeJFtM6f9VC6oORUrdCXD5vTkELU=w122-h92-k-no"
+        },
+        {
+            "position": 19,
+            "title": "Shri Dashbhuja Ganpati Mandir",
+            "place_id": "ChIJkVekF5O_wjsRrBkvdoGn9Fw",
+            "data_id": "0x3bc2bf9317a45791:0x5cf4a781762f19ac",
+            "data_cid": "6698162720282188204",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2bf9317a45791%3A0x5cf4a781762f19ac&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2bf9317a45791%3A0x5cf4a781762f19ac&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.505765,
+                "longitude": 73.8258388
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkVekF5O_wjsRrBkvdoGn9Fw",
+            "provider_id": "/m/02x5vk1",
+            "rating": 4.7,
+            "reviews": 2239,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple",
+                "Place of worship"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple",
+                "place_of_worship"
+            ],
+            "address": "GR4G+884, \u092e\u0939\u0930\u094d\u0937\u093f Karve Nagar Rd, Pandurang Colony, Erandwane, Pune, Maharashtra 411004, India",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2rSAhxELmm4NNr0_XGDguJDsCDNwNnw2Y2CYP=w80-h106-k-no"
+        },
+        {
+            "position": 20,
+            "title": "Shree Balaji Temple, Pune",
+            "place_id": "ChIJCw3v3eC-wjsRRQZzAaSldtg",
+            "data_id": "0x3bc2bee0ddef0d0b:0xd876a5a401730645",
+            "data_cid": "15597836483261826629",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x3bc2bee0ddef0d0b%3A0xd876a5a401730645&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x3bc2bee0ddef0d0b%3A0xd876a5a401730645&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 18.2566632,
+                "longitude": 73.9323634
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCw3v3eC-wjsRRQZzAaSldtg",
+            "provider_id": "/m/0ds2644",
+            "rating": 4.7,
+            "reviews": 12147,
+            "unclaimed_listing": true,
+            "type": "Hindu temple",
+            "types": [
+                "Hindu temple"
+            ],
+            "type_id": "hindu_temple",
+            "type_ids": [
+                "hindu_temple"
+            ],
+            "address": "Ketkawale Balaji Road, Pune, Maharashtra 412205, India",
+            "open_state": "Open \u22c5 Closes 8\u202fPM",
+            "hours": "Open \u22c5 Closes 8\u202fPM",
+            "operating_hours": {
+                "friday": "5\u202fAM\u20138\u202fPM",
+                "saturday": "5\u202fAM\u20138\u202fPM",
+                "sunday": "5\u202fAM\u20138\u202fPM",
+                "monday": "5\u202fAM\u20138\u202fPM",
+                "tuesday": "5\u202fAM\u20138\u202fPM",
+                "wednesday": "5\u202fAM\u20138\u202fPM",
+                "thursday": "5\u202fAM\u20138\u202fPM"
+            },
+            "description": "Hindu temple with domes & a lavish tower. Hindu temple dedicated to Balaji featuring a courtyard, golden domes & an ornate stepped tower.",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNALqQqaI9WbZ_WtNTHQBIQunYNx-PtusIUQhyx=w184-h92-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=temples+in+pune&start=20&type=search"
+    }
+}
+
