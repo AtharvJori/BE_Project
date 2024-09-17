@@ -24,13 +24,19 @@ for i in range(0,20):
     type.append(data["local_results"][i]['type'])
     types.append(data["local_results"][i]['types'])
 
-print(position)
-print(title)
-print(place_id)
-print(latitude)
-print(longitude)
-print(rating)
-print(reviews)
-print(type)
-print(types)    
-print("=========================================")
+data1 = {'position': position,
+'title': title,
+'place_id': place_id,
+'latitude': latitude,
+'longitude': longitude,
+'rating': rating,
+'reviews': reviews,
+'type': type,
+'types': types}
+
+# Writing to sample.json
+with open("extracted_data.json", "w") as outfile:
+	outfile.write(json.dumps(data1, indent=4))
+
+if(outfile):
+    print("extracted successfully")
