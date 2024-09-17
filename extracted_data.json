@@ -1,0 +1,253 @@
+{
+    "position": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+    ],
+    "title": [
+        "Shreemant Dagdusheth Halwai Ganpati Temple",
+        "Shree Nageshwar Shiv Mandir",
+        "Shri Chatushrungi Devi Temple",
+        "Shree Devdeveshwar Temple (Parvati Temple)",
+        "ISKCON NVCC Pune",
+        "Shri Mahalaxmi Mandir, Pune",
+        "Tulshibaug Shri Ram Mandir",
+        "Shiv Temple",
+        "Mahadev Mandir",
+        "Wagheshwar Temple",
+        "Shiv Mandir",
+        "Shiv Mandir",
+        "Mahadev Mandir",
+        "Sri Ahobila Mutt Sri Balaji Mandir",
+        "Shree Shiva Temple",
+        "Shri Shambho Mahadev Mandir",
+        "Mahalaxmi Mandir",
+        "Shri Omkareshwar Temple, Pune",
+        "Ganesh Temple",
+        "Shree Kala Ram Mandir"
+    ],
+    "place_id": [
+        "ChIJ_0K0pW_AwjsR4bxItvVl850",
+        "ChIJUyQesGfAwjsRi-ZWzAKcwak",
+        "ChIJiQOngXe_wjsRXqB1ICYKi3Y",
+        "ChIJK3EUKQnAwjsR8sgehTShT5E",
+        "ChIJSdctqfvqwjsR7tcJvlsbul4",
+        "ChIJdSya5BHAwjsRMdxtJDBOIUQ",
+        "ChIJlz9Oam7AwjsRSAU54ATRZ64",
+        "ChIJG7j5zyDCwjsR6bQbtxT6eA0",
+        "ChIJq79xouO4wjsRiQONz7MBGKE",
+        "ChIJ83ttOjnGwjsRWeipP0aGay8",
+        "ChIJUe934zO_wjsRNdaWRaKwsUc",
+        "ChIJDUypmuTAwjsRTq-Dkb27qUs",
+        "ChIJH_3nxUK5wjsRwe6lDPjvXJA",
+        "ChIJ2-aAAOW-wjsR1wSFRZyCES4",
+        "ChIJO_cOeUSVwjsRvdUrraA-Ra4",
+        "ChIJ4e2czf7pwjsRjOUZQpr5qg0",
+        "ChIJ0VdRLwnAwjsRaeAHCij8ZWo",
+        "ChIJ45xFN3rAwjsR2V37jJhvZJA",
+        "ChIJq9XUc_fAwjsRXSEvDGP62pU",
+        "ChIJ4wFSsGfAwjsRqgPz7JXkY1A"
+    ],
+    "latitude": [
+        18.5164297,
+        18.5211462,
+        18.5390549,
+        18.497573199999998,
+        18.4479075,
+        18.49999,
+        18.5137617,
+        18.5186961,
+        18.602107999999998,
+        18.5815211,
+        18.5665303,
+        18.5448307,
+        18.588764599999998,
+        18.5416109,
+        18.466072099999998,
+        18.4850408,
+        18.4977029,
+        18.519900099999997,
+        18.5350407,
+        18.5209702
+    ],
+    "longitude": [
+        73.85613289999999,
+        73.8633162,
+        73.8283972,
+        73.84717169999999,
+        73.8806802,
+        73.85407719999999,
+        73.85536479999999,
+        73.9383582,
+        73.7993759,
+        73.9786381,
+        73.81158239999999,
+        73.8829655,
+        73.7604726,
+        73.78976469999999,
+        73.8245268,
+        73.9393731,
+        73.8470775,
+        73.8489738,
+        73.8761355,
+        73.8630591
+    ],
+    "rating": [
+        4.8,
+        4.6,
+        4.7,
+        4.5,
+        4.7,
+        4.8,
+        4.7,
+        4.7,
+        4.8,
+        4.7,
+        4.7,
+        4.6,
+        4.9,
+        4.6,
+        4.4,
+        4.5,
+        4.6,
+        4.7,
+        4.6,
+        4.6
+    ],
+    "reviews": [
+        164070,
+        518,
+        14354,
+        4497,
+        31966,
+        3102,
+        1500,
+        217,
+        1200,
+        11773,
+        47,
+        42,
+        164,
+        1698,
+        102,
+        212,
+        30,
+        5571,
+        45,
+        46
+    ],
+    "type": [
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple",
+        "Hindu temple"
+    ],
+    "types": [
+        [
+            "Hindu temple",
+            "Religious organization",
+            "Tourist attraction"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple",
+            "Hiking area",
+            "Tourist attraction"
+        ],
+        [
+            "Hindu temple",
+            "Food court",
+            "Outlet mall",
+            "Recreation center",
+            "Tourist attraction"
+        ],
+        [
+            "Hindu temple",
+            "Tourist attraction"
+        ],
+        [
+            "Hindu temple",
+            "Tourist attraction"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple",
+            "Tourist attraction"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple",
+            "Place of worship"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple",
+            "Tourist attraction"
+        ],
+        [
+            "Hindu temple"
+        ],
+        [
+            "Hindu temple"
+        ]
+    ]
+}
