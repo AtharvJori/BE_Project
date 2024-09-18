@@ -1,5 +1,5 @@
 import json 
-
+import pandas as pd
 
 
 no_of_results=80
@@ -77,7 +77,8 @@ for i in range(0,(no_of_results+1),20):
     for i in range(0,20):
         types.append(data["local_results"][i]['types'])
 
-    
+
+
 data = {
     'position': position,
     'title': title,
@@ -90,10 +91,8 @@ data = {
     'types': types
 }
 
-
-# Writing to sample.json
-with open("extracted_data.json", "w") as outfile:
-	outfile.write(json.dumps(data1, indent=4))
-
-if(outfile):
-    print("extracted successfully")
+df = pd.DataFrame(data)
+     
+# saving the dataframe
+df.to_csv('extracted_data.csv')
+print("extracted successfully")

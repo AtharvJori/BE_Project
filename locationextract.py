@@ -5,7 +5,7 @@ import os
 import json 
 
 
-no_of_results=80
+no_of_results=100
 search='temples in pune'
 
 
@@ -13,7 +13,7 @@ search='temples in pune'
 api_key = os.getenv('SERPAPI_KEY')
 client=serpapi.Client(api_key=api_key)
 
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     results = client.search({
         'engine':'google_maps',
         'type':'search',
