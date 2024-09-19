@@ -2,10 +2,10 @@ import json
 import pandas as pd
 
 
-no_of_results=80
+no_of_results=100
 
 position = []
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
@@ -14,7 +14,7 @@ for i in range(0,(no_of_results+1),20):
 
 
 title = []
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
@@ -22,7 +22,7 @@ for i in range(0,(no_of_results+1),20):
         title.append(data["local_results"][i]['title'])
 
 place_id = []
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
@@ -30,7 +30,7 @@ for i in range(0,(no_of_results+1),20):
         place_id.append(data["local_results"][i]['place_id'])
  
 latitude = []       
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
@@ -38,7 +38,7 @@ for i in range(0,(no_of_results+1),20):
         latitude.append( data["local_results"][i]['gps_coordinates']['latitude'])
 
 longitude = []      
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
@@ -46,7 +46,7 @@ for i in range(0,(no_of_results+1),20):
         longitude.append( data["local_results"][i]['gps_coordinates']['longitude'])
 
 rating = []      
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
@@ -54,7 +54,7 @@ for i in range(0,(no_of_results+1),20):
         rating.append(data["local_results"][i]['rating'])
 
 reviews = []       
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
@@ -62,7 +62,7 @@ for i in range(0,(no_of_results+1),20):
         reviews.append(data["local_results"][i]['reviews'])
 
 type = []    
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
@@ -70,7 +70,7 @@ for i in range(0,(no_of_results+1),20):
         type.append(data["local_results"][i]['type'])
 
 types = []    
-for i in range(0,(no_of_results+1),20):
+for i in range(0,no_of_results,20):
     with open (f"extracted_data\extracted_data(temples in pune)_{i}.json", 'r')as f:
         data=json.load(f)
 
