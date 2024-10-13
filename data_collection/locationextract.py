@@ -88,7 +88,7 @@ for j in range(0,con.no_of_results,20):
 combined_df = pd.concat(dfs, ignore_index=True)
 
 # Save the combined DataFrame to a new CSV file
-combined_df.to_csv(f'meta_csv/{con.search}_combined_output.csv', index=False)
+combined_df.to_csv(f'meta_csv/combined_{con.search}.csv', index=False)
 
 print("CSV files combined successfully!")
 print()
