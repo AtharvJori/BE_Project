@@ -1,0 +1,101 @@
+Unnamed: 0,position,title,place_id,latitude,longitude,rating,reviews,type,types
+0,1,Shrimant Dagdusheth Halwai Ganpati Mandir,ChIJ_0K0pW_AwjsR4bxItvVl850,18.5164297,73.85613289999999,4.8,165391,Hindu temple,"['Hindu temple', 'Religious organization', 'Tourist attraction']"
+1,2,ISKCON NVCC Pune,ChIJSdctqfvqwjsR7tcJvlsbul4,18.4479075,73.8806802,4.7,32178,Hindu temple,"['Hindu temple', 'Food court', 'Outlet mall', 'Recreation center', 'Tourist attraction']"
+2,3,"Shri Omkareshwar Temple, Pune",ChIJ45xFN3rAwjsR2V37jJhvZJA,18.5199001,73.8489738,4.7,5638,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+3,4,"Shri Mahalaxmi Mandir, Pune",ChIJdSya5BHAwjsRMdxtJDBOIUQ,18.49999,73.85407719999999,4.8,3152,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+4,5,Shri Chatushrungi Devi Temple,ChIJiQOngXe_wjsRXqB1ICYKi3Y,18.5390549,73.8283972,4.7,14400,Hindu temple,['Hindu temple']
+5,6,BAPS Shri Swaminarayan temple Narhe - Pune,ChIJG00XWtqVwjsRs0vgrOLuRSQ,18.4420753,73.83648409999999,4.7,12492,Hindu temple,['Hindu temple']
+6,7,Shree Nageshwar Shiv Mandir,ChIJUyQesGfAwjsRi-ZWzAKcwak,18.5211462,73.8633162,4.6,523,Hindu temple,['Hindu temple']
+7,8,Shri Siddhivinayak Ganesh Mandir Sarasbaug,ChIJd-Wy4g3AwjsRnlJqTKagdlM,18.5008945,73.85305009999999,4.6,14919,Hindu temple,"['Hindu temple', 'Park']"
+8,9,Wagheshwar Temple,ChIJ83ttOjnGwjsRWeipP0aGay8,18.5817586,73.97772119999999,4.7,11861,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+9,10,Shree Devdeveshwar Temple (Parvati Temple),ChIJK3EUKQnAwjsR8sgehTShT5E,18.4975732,73.84717169999999,4.5,4504,Hindu temple,"['Hindu temple', 'Hiking area', 'Tourist attraction']"
+10,11,Shree Ayyappa Temple,ChIJO9dP20LAwjsR4JzurEiq9WU,18.5183465,73.86832009999999,4.6,662,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+11,12,Tulshibaug Shri Ram Mandir,ChIJlz9Oam7AwjsRSAU54ATRZ64,18.5137617,73.85536479999999,4.7,1516,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+12,13,ISKCON Pune Camp,ChIJud3T2U_AwjsRABe9wpfghek,18.5203582,73.8796204,4.7,10758,Hindu temple,"['Hindu temple', 'Place of worship', 'Spiritist center', 'Tourist attraction']"
+13,14,Bhuleshwar Temple,ChIJ5ctMUg0ewzsRypqw9G3-fPQ,18.4360035,74.2411621,4.8,8140,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+14,15,Shiv Temple,ChIJG7j5zyDCwjsR6bQbtxT6eA0,18.5186961,73.9383582,4.7,223,Hindu temple,['Hindu temple']
+15,16,Shree Trishunda Ganpati Mandir,ChIJ36EM-GbAwjsRHba_oTh07ys,18.5216712,73.86184039999999,4.7,1047,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+16,17,Shree Shiva Temple,ChIJcyilYvDBwjsRFKpoh4-D1xQ,18.5022509,73.92745719999999,4.6,295,Hindu temple,['Hindu temple']
+17,18,Mahadev Mandir,ChIJq79xouO4wjsRiQONz7MBGKE,18.602108,73.7993759,4.8,1215,Hindu temple,['Hindu temple']
+18,19,Sri Ahobila Mutt Sri Balaji Mandir,ChIJ2-aAAOW-wjsR1wSFRZyCES4,18.5416109,73.78976469999999,4.6,1710,Hindu temple,"['Hindu temple', 'Place of worship']"
+19,20,Khandoba temple,ChIJ97ysqhuVwjsRPdpLQKqyewY,18.4149154,73.8209724,4.8,510,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+0,1,Shree Mahalaxmi Mandir,ChIJf1UcrvTBwjsRaIL1yujJKj4,18.5129296,73.9308868,4.8,555,Hindu temple,['Hindu temple']
+1,2,Shiv Mandir,ChIJUe934zO_wjsRNdaWRaKwsUc,18.5665303,73.81158239999999,4.7,47,Hindu temple,['Hindu temple']
+2,3,Ganesh Temple,ChIJWbX0MW7AwjsRvcTtGj8jvko,18.5148219,73.85452959999999,4.6,120,Hindu temple,['Hindu temple']
+3,4,Mhatoba Temple,ChIJIdJhG6u_wjsRfBIBV4nrmFo,18.5212954,73.79718439999999,4.6,254,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+4,5,Shree Balaji Temple,ChIJE3PfoPvqwjsRFCDta1L1nOc,18.4472838,73.88029159999999,4.6,193,Hindu temple,['Hindu temple']
+5,6,Shree Navagraha Shani Mandir,ChIJN260dGXAwjsRykxHmjsobvI,18.5197528,73.85626309999999,4.5,584,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+6,7,Shri Saibaba Temple,ChIJOYiMqIfAwjsRcil8MAtxBAo,18.5256587,73.85588489999999,4.7,454,Hindu temple,['Hindu temple']
+7,8,Marigold Balaji Temple,ChIJs7IX-Q3BwjsRahyo1Y3FEIA,18.5452,73.9066899,4.7,439,Hindu temple,"['Hindu temple', 'Place of worship']"
+8,9,"Shree Balaji Temple, Pune",ChIJCw3v3eC-wjsRRQZzAaSldtg,18.2566632,73.9323634,4.7,12247,Hindu temple,['Hindu temple']
+9,10,Gramadevatha Sri Kasba Ganapati Mandir Devastan,ChIJxwVhhWXAwjsRrW-T8LDL4lo,18.5190414,73.8573208,4.7,2931,Hindu temple,"['Hindu temple', 'Charity', 'Library', 'Non-profit organization']"
+10,11,Navagraha Temple Baner Gaon,ChIJQ5qiT9e-wjsRYpWMuYz9FaI,18.5598441,73.788198,4.7,298,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+11,12,Jagannath Temple,ChIJ8ShojmC_wjsRcFxdhZzf7Ns,18.55008,73.83853409999999,4.8,329,Hindu temple,"['Hindu temple', 'Place of worship']"
+12,13,Ramdara temple,ChIJ49_qb4_owjsROpY4mHsNjs4,18.4437359,74.0174608,4.6,11984,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+13,14,Shree Tarkeshwar Mandir,ChIJR7DaiOTAwjsRNeAcY_Y744I,18.5461538,73.8821949,4.5,622,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+14,15,Shree Siddhivinayak Mandir Pune,ChIJCZS-ibe_wjsRv3vtPYULsMA,18.5073514,73.8076543,4.7,64,Hindu temple,['Hindu temple']
+15,16,"Shri Parvatinandan Ganpati Devsthan, Pune (Khinditla Ganpati)",ChIJ4fuDkG-_wjsRxlAJ_fpSCkQ,18.5411777,73.8290758,4.8,119,Hindu temple,['Hindu temple']
+16,17,Shiv Mandir,ChIJDUypmuTAwjsRTq-Dkb27qUs,18.5448307,73.8829655,4.6,42,Hindu temple,['Hindu temple']
+17,18,Mahalaxmi Mandir,ChIJ0VdRLwnAwjsRaeAHCij8ZWo,18.4977029,73.8470775,4.6,31,Hindu temple,['Hindu temple']
+18,19,Shree Shiva Temple,ChIJO_cOeUSVwjsRvdUrraA-Ra4,18.4660721,73.8245268,4.4,102,Hindu temple,['Hindu temple']
+19,20,Shree Swami Samartha Temple,ChIJ3bKtzW3AwjsR37hb7Ul_AQU,18.5117218,73.85638229999999,4.6,77,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+0,1,Shiva Temple,ChIJwYNp_1brwjsR-tE94Bolu4A,18.4595874,73.9002074,4.8,28,Hindu temple,['Hindu temple']
+1,2,Sai Baba Temple,ChIJlW3D59y_wjsR9ioUrX2-04w,18.4899779,73.8144932,4.7,205,Hindu temple,['Hindu temple']
+2,3,Vithal Mandir,ChIJJw1dQXTAwjsRE70VwwTvC6k,18.509867,73.846024,4.6,125,Hindu temple,['Hindu temple']
+3,4,Panchaleshwar Mahadev Mandir,ChIJAaKfK3bAwjsRC2-GUMYx0GI,18.5141375,73.8422787,4.8,109,Hindu temple,['Hindu temple']
+4,5,Sadguru Shri Jangli Maharaj Samadhi Temple,ChIJtzBAq33AwjsRyK0LTVNyLKc,18.5265763,73.8504224,4.6,1735,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+5,6,Tukai Devi Mandir,ChIJwxdEqdC-wjsRbnMG_oSmRko,18.5586904,73.7886201,4.6,615,Hindu temple,['Hindu temple']
+6,7,Mahadev temple,ChIJN_AFUS6-wjsRJcYRVKpea4w,18.4867903,73.7865357,4.8,17,Hindu temple,['Hindu temple']
+7,8,Shri Shambho Mahadev Mandir,ChIJ4e2czf7pwjsRjOUZQpr5qg0,18.4850408,73.9393731,4.5,213,Hindu temple,['Hindu temple']
+8,9,Shirdi Sai Devasthan,ChIJYZFb5bnHwjsR69iBeg6QpbI,18.6416121,73.8770408,4.7,10525,Hindu temple,"['Hindu temple', 'Charity', 'Non-profit organization', 'Tourist attraction']"
+9,10,Shree Tukai devi Temple,ChIJjUKootm-wjsR-USivi1l5iY,18.5586306,73.7885506,4.6,116,Hindu temple,['Hindu temple']
+10,11,Shree Rokadoba Devasthan,ChIJa__eTnvAwjsRjFuDn8p-agU,18.5235085,73.8509955,4.6,374,Hindu temple,['Hindu temple']
+11,12,Shree Kala Ram Mandir,ChIJ4wFSsGfAwjsRqgPz7JXkY1A,18.5209702,73.8630591,4.6,46,Hindu temple,['Hindu temple']
+12,13,Nilkantheshwar Mandir,ChIJn7bukFnAwjsRuucgefY7zxQ,18.5264571,73.8750854,4.5,73,Hindu temple,['Hindu temple']
+13,14,Amba Mata mandir,ChIJVVVVVOjqwjsRP-wdOiCMoy0,18.4558486,73.86941159999999,4.4,780,Hindu temple,['Hindu temple']
+14,15,Swaminarayan Mandir,ChIJOVrmCY3BwjsR9onmz-rHtD0,18.5176246,73.8668551,4.5,149,Hindu temple,"['Hindu temple', 'Place of worship']"
+15,16,ShivaShankar Mandir,ChIJz_QOnRnAwjsRwODA089wzk0,18.4929612,73.86041639999999,4.6,22,Hindu temple,['Hindu temple']
+16,17,Shiv Temple,ChIJWUfFz12-wjsR3g_2gNAumLA,18.5160895,73.7736489,4.6,52,Hindu temple,['Hindu temple']
+17,18,Shree Mahadev Mandir,ChIJEbrnNeK_wjsRApKwKwVCwp0,18.4836162,73.8256565,4.6,40,Hindu temple,['Hindu temple']
+18,19,sacchiyay Mata Temple,ChIJb1Fm7MjqwjsRxmpAx2vWAt4,18.4565117,73.8519933,4.8,224,Hindu temple,['Hindu temple']
+19,20,Shani Mandir,ChIJRaSX6r3qwjsRk-bct3n8LQM,18.468384,73.8640135,4.5,593,Hindu temple,['Hindu temple']
+0,1,SHRI Balaji Mandir,ChIJl0mSSEvBwjsRrT5AjbNdMtY,18.5044546,73.8798035,5.0,21,Hindu temple,['Hindu temple']
+1,2,Zakoba temple,ChIJsVroDLW_wjsR7pwdF4gKnVg,18.5031519,73.79729569999999,4.5,42,Hindu temple,['Hindu temple']
+2,3,Shree Shiv Mandir,ChIJ1VRLCXS_wjsRhAC50O-kBNc,18.532318,73.823229,4.6,10,Hindu temple,['Hindu temple']
+3,4,Aai Mata Mandir,ChIJjVTde43qwjsR6cFPy4iPc3M,18.4718282,73.8748942,4.6,586,Hindu temple,['Hindu temple']
+4,5,Rahalkar Ram Mandir,ChIJOb-3g3HAwjsRcbZ-eFOY3Go,18.5126129,73.8513981,4.6,86,Hindu temple,['Hindu temple']
+5,6,Shri Somnath Temple,ChIJEY_Df0LBwjsRVUaZGnXWXP8,18.5585663,73.9213551,4.5,251,Hindu temple,['Hindu temple']
+6,7,Renuka Devi Mandir Trust pune,ChIJgabJdz7AwjsRGQ7CazccnRE,18.5029105,73.8661395,4.5,139,Hindu temple,['Hindu temple']
+7,8,Mahasadhu Shree Moraya Gosavi Maharaj Sanjivan Samadhi Mandir,ChIJkbXS6KS5wjsRmD03IM1s9U4,18.6264442,73.7789134,4.7,12906,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+8,9,Madrasi Ganpati Temple,ChIJF2Jx1SHBwjsRDrbcL5HiAB4,18.5179932,73.864828,4.9,33,Hindu temple,['Hindu temple']
+9,10,Shani Hanuman Mandir kharadi Pune,ChIJKfi20ejDwjsRjQv1X-A61PA,18.5661644,73.9500595,4.8,68,Hindu temple,['Hindu temple']
+10,11,Swami Samarth devasthan mandir pune,ChIJwY4ou2_AwjsRnmXO0AGT_OQ,18.5162602,73.855593,4.8,70,Hindu temple,['Hindu temple']
+11,12,"Bhave's Shree Khandoba Mandir, Pune",ChIJqdIlxW7AwjsR6uXpHRSZOrY,18.5148334,73.8586559,4.6,76,Hindu temple,['Hindu temple']
+12,13,NarayaniDham Katraj Pune,ChIJyxNpL6TqwjsRhkduY7HUW74,18.4532293,73.8535994,4.5,754,Religious organization,"['Religious organization', 'Hindu temple']"
+13,14,Shri Someshwar Mandir,ChIJ6x-PI17BwjsR2EBY0wM_KIc,18.5598999,73.9319373,4.4,72,Hindu temple,['Hindu temple']
+14,15,Shree Aranyeshwar Ganesh Mandir,ChIJX6J4qfrGwjsRWXYGI0YwaHo,18.6147343,73.90054599999999,4.6,114,Hindu temple,['Hindu temple']
+15,16,TEMPLE,ChIJL19DBJ2_wjsRaP00brMWN5U,18.5247867,73.82770289999999,4.5,2,Hindu temple,['Hindu temple']
+16,17,Sachhai Mata Mandir(Osiya mata),ChIJNVyAZNfqwjsRetm-4pSru_8,18.4399978,73.8532649,4.4,180,Hindu temple,['Hindu temple']
+17,18,"Kheteshwar Mandir, Bhavan Pune (Shri Rajpurohit Samaj Sanstha )",ChIJ2eEk3O_qwjsRlxUeVb2JKUc,18.4524615,73.87657709999999,4.7,185,Hindu temple,['Hindu temple']
+18,19,Renuka Mata Mandir,ChIJVVVVpSzCwjsRWGWH2qt5ixA,18.534994,73.9457686,4.6,288,Hindu temple,['Hindu temple']
+19,20,Shree Maheshwari Balaji Mandir Kasaba Peth Pune,ChIJRxZNOWbAwjsRQuDBQubN1pI,18.5197841,73.8614132,4.4,81,Hindu temple,['Hindu temple']
+0,1,Khandoba Mandir,ChIJ9UDO0ke-wjsRPONS44sdhFg,18.5031681,73.7824825,4.8,48,Hindu temple,['Hindu temple']
+1,2,Shree Mahadev Mandir,ChIJc_cIvWmVwjsR6h4c7dbJhmo,18.4645326,73.81634609999999,4.8,12,Hindu temple,['Hindu temple']
+2,3,Pitheshwar shiva temple,ChIJiStbvPzpwjsRWUTZav989u0,18.4867363,73.9465113,4.7,16,Hindu temple,['Hindu temple']
+3,4,Shree Sangameshwar Mandir,ChIJg7UX32HAwjsREllmVNwSZWA,18.5301433,73.8612789,4.3,22,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+4,5,Shiv Mandir,ChIJ_bMT_3rDwjsRkN5PF5VBgyY,18.5788503,73.9919322,4.4,37,Hindu temple,['Hindu temple']
+5,6,Shani temple,ChIJc8pVTeS_wjsR-jKW6ZPwfC4,18.4897459,73.8264573,4.6,34,Hindu temple,['Hindu temple']
+6,7,Shani Mandir & Tulja Bhawani Mandir,ChIJVxtaTwjCwjsRHzXvjZPcFsc,18.4937646,73.9501339,4.3,106,Hindu temple,"['Hindu temple', 'Tourist attraction']"
+7,8,Mahadev Mandir,ChIJyWGAS3S_wjsRoVuUKbB8uyc,18.5299732,73.8224628,4.4,13,Hindu temple,['Hindu temple']
+8,9,Ram Mandir Dahanukar Colony,ChIJBXgsNcS_wjsRgnkcFIHXEh0,18.4958327,73.8095812,4.5,116,Hindu temple,['Hindu temple']
+9,10,Hanuman temple,ChIJMyzhk5m_wjsRfOJfd-Yo130,18.5172222,73.8233333,4.6,81,Hindu temple,['Hindu temple']
+10,11,Shree Gajanan Maharaj Temple,ChIJKZPa7ea_wjsR5s1vu09cQ_A,18.4885625,73.82245309999999,4.8,124,Hindu temple,['Hindu temple']
+11,12,Khandoba Mandir,ChIJUQ2s2KTGwjsRBLJ5BYnP6rI,18.5963357,73.9253966,4.3,76,Hindu temple,['Hindu temple']
+12,13,Mahadev Temple,ChIJz6ZWMsLrwjsRaXtqOhlLJZ8,18.4759686,73.8956048,4.8,19,Hindu temple,['Hindu temple']
+13,14,Shiv Mandir,ChIJlybonfDpwjsRHcErxrYVO3s,18.4726805,73.9784805,4.9,22,Hindu temple,['Hindu temple']
+14,15,Babosa Mandir Wakad Pune,ChIJY8TCp4G5wjsRQMvlEwkWsLE,18.6048902,73.7694791,5.0,17,Hindu temple,['Hindu temple']
+15,16,Khandoba Mandir,ChIJ28Maoky5wjsRo9tYlQQSG3g,18.5692839,73.7650426,4.7,43,Hindu temple,['Hindu temple']
+16,17,Shree Shatrunjay Bhaktamar Jain Temple,ChIJMcGPm_rqwjsRjVV1gcFA8UU,18.4516593,73.8779641,4.5,442,Jain temple,['Jain temple']
+17,18,Shri Narmadeshwar Mandir,ChIJs-4OVnnAwjsRMHa4D2VblYI,18.5228631,73.8477048,4.9,8,Hindu temple,['Hindu temple']
+18,19,Shree Harihareshwar Mandir,ChIJZ-pzTWXAwjsRD-S8PCvW-C0,18.5183189,73.85256559999999,4.4,61,Hindu temple,['Hindu temple']
+19,20,Daulateshwar Temple Lord Shiva,ChIJo8P5l7nqwjsR7URQHw9P8Qg,18.465008,73.85585739999999,4.5,34,Hindu temple,['Hindu temple']

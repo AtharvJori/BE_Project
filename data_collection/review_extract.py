@@ -1,4 +1,13 @@
-{
+from dotenv import load_dotenv
+load_dotenv()
+import serpapi
+import os
+import config as con
+import pandas as pd
+
+
+
+result = {
     "search_metadata": {
         "id": "66e416e67ebde5ae04e21976",
         "status": "Success",
@@ -94,7 +103,7 @@
                 "link": "https://www.google.com/maps/contrib/102552096805064651076?hl=en-US",
                 "contributor_id": "102552096805064651076",
                 "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWGdQkGR4ZcL2r9BGW-wthxx0mnAH7HRPpZGBx63KPZWGsrtQVP=s120-c-rp-mo-ba4-br100",
-                "local_guide": true,
+                "local_guide": True,
                 "reviews": 26,
                 "photos": 92
             },
@@ -123,7 +132,7 @@
                 "link": "https://www.google.com/maps/contrib/102765868144964034372?hl=en-US",
                 "contributor_id": "102765868144964034372",
                 "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU2FigpPWi-l3hw-Xbn4aGJmLeK4QvE9fv_2Cp0JqtJh2c48-Ov=s120-c-rp-mo-ba5-br100",
-                "local_guide": true,
+                "local_guide": True,
                 "reviews": 298,
                 "photos": 835
             },
@@ -157,7 +166,7 @@
                 "link": "https://www.google.com/maps/contrib/105910147993498483293?hl=en-US",
                 "contributor_id": "105910147993498483293",
                 "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLXmB35cbRjNofDwLYgHIm-vQJXVFD7ZS160WoDkK6DRlf9mA=s120-c-rp-mo-ba6-br100",
-                "local_guide": true,
+                "local_guide": True,
                 "reviews": 337,
                 "photos": 1707
             },
@@ -193,7 +202,7 @@
                 "link": "https://www.google.com/maps/contrib/115969431229943485706?hl=en-US",
                 "contributor_id": "115969431229943485706",
                 "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVfTXuMqA7OqZt74yJR3wtgbk-6mwCXdt_sTDYwT3bM9zj4xlU=s120-c-rp-mo-ba5-br100",
-                "local_guide": true,
+                "local_guide": True,
                 "reviews": 108,
                 "photos": 517
             },
@@ -227,7 +236,7 @@
                 "link": "https://www.google.com/maps/contrib/105582644189368858649?hl=en-US",
                 "contributor_id": "105582644189368858649",
                 "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWDswICs0DYNh9TsLPlwJz_nkKSvToGPvazg_o7mpXu9GSNMp5U=s120-c-rp-mo-ba3-br100",
-                "local_guide": true,
+                "local_guide": True,
                 "reviews": 62,
                 "photos": 55
             },
@@ -282,7 +291,7 @@
                 "link": "https://www.google.com/maps/contrib/101926218302229462114?hl=en-US",
                 "contributor_id": "101926218302229462114",
                 "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ_FSqU-LBI6Aa2R3R4NiptX2t31js1OmpRIquY4OTnoiIv5Q=s120-c-rp-mo-ba5-br100",
-                "local_guide": true,
+                "local_guide": True,
                 "reviews": 73,
                 "photos": 495
             },
@@ -313,7 +322,7 @@
                 "link": "https://www.google.com/maps/contrib/106121610785035330250?hl=en-US",
                 "contributor_id": "106121610785035330250",
                 "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUmv1AmtDyd6HEA4IH1vUcioHyQjQaFTsK2BI-fspWyXCl5tZQ7=s120-c-rp-mo-ba4-br100",
-                "local_guide": true,
+                "local_guide": True,
                 "reviews": 42,
                 "photos": 55
             },
@@ -348,7 +357,7 @@
                 "link": "https://www.google.com/maps/contrib/101760710822582813748?hl=en-US",
                 "contributor_id": "101760710822582813748",
                 "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVyHyLqTMWhbvk7iYKsZz3waM3XQIx5BiOIDXf1Wp3H9RpamlaS=s120-c-rp-mo-ba4-br100",
-                "local_guide": true,
+                "local_guide": True,
                 "reviews": 22,
                 "photos": 118
             },
@@ -369,3 +378,16 @@
         "next_page_token": "CAESBkVnSUlDQQ=="
     }
 }
+
+review = []
+for i in range(0,5):
+    review.append(result["reviews"][i]['extracted_snippet']['original'])
+
+
+topic = []
+for i in range(0,len(result["topics"])):
+    topic.append(result["topics"][i]['keyword'])
+
+
+print(topic)
+print(review)
