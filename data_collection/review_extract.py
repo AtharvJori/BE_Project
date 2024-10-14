@@ -403,7 +403,7 @@ with open(fn, mode='r') as file:
         if(len(result["reviews"])>10):
             count = 10
         else:
-            count = len(result["topics"]
+            count = len(result["reviews"])
         
         for i in range(0,count):
             review.append(result["reviews"][i]['extracted_snippet']['original'])
@@ -424,5 +424,5 @@ with open(fn, mode='r') as file:
     df = pd.DataFrame(data)
         
     # saving the dataframe
-    df.to_csv(f'meta_csv/review_data_{con.search}.csv')
+    df.to_csv(f'review_csv/review_data_{con.search}.csv')
     print(f"{con.search}_extracted successfully")
