@@ -22,7 +22,7 @@ client=serpapi.Client(api_key=api_key)
 
 with open(fn, mode='r') as file:
     csv_reader = csv.DictReader(file)
-    
+    j = 1
     # Iterate over rows in the CSV
     for row in csv_reader:
         # Access the column by its header (column name)
@@ -44,15 +44,35 @@ with open(fn, mode='r') as file:
             count = 10
         else:
             count = len(result["reviews"])
-        
+
         for i in range(0,count):
-            review.append(result["reviews"][i]['extracted_snippet']['original'])
+            try:
+                if result["reviews"][i]['extracted_snippet']:
+                    review.append(result["reviews"][i]['extracted_snippet']['original'])
+            except KeyError:
+                print(f"No reiviews were found for {row["title"]}")
+                continue
         reviews.append(review)
+        
+        # print(review)
+        
 
         topic = []
-        for i in range(0,len(result["topics"])):
-            topic.append(result["topics"][i]['keyword'])
-        topics.append(topic)
+        
+        try:
+            if result["topics"]:
+                for i in range(0,len(result["topics"])):
+                    topic.append(result["topics"][i]['keyword'])
+                topics.append(topic)        
+        except KeyError:
+            print(f"No topics were found for {row["title"]}")
+            topics.append("NA")        
+
+        
+        # print(topic)
+        print(j)
+        j = j+1
+        
 
 
     data = {
@@ -61,6 +81,7 @@ with open(fn, mode='r') as file:
         'topics': topics
     }
 
+    # print(data)
     df = pd.DataFrame(data)
         
     # saving the dataframe
