@@ -400,7 +400,12 @@ with open(fn, mode='r') as file:
         }
 
         review = []
-        for i in range(0,5):
+        if(len(result["reviews"])>10):
+            count = 10
+        else:
+            count = len(result["topics"]
+        
+        for i in range(0,count):
             review.append(result["reviews"][i]['extracted_snippet']['original'])
         reviews.append(review)
 
