@@ -424,5 +424,5 @@ with open(fn, mode='r') as file:
     df = pd.DataFrame(data)
         
     # saving the dataframe
-    df.to_csv(f'review_csv/review_data_{con.search}.csv')
+    df.to_csv(f'review_csv/review_{con.search}.csv')
     print(f"{con.search}_extracted successfully")
