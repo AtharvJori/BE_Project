@@ -75,23 +75,23 @@ for j in range(0,con.no_of_results,20):
     df = pd.DataFrame(data)
         
     # saving the dataframe
-    df.to_csv(f'meta_csv/meta_data_{con.search}_{j}.csv')
+    df.to_csv(f'location_csv/meta_data_{con.search}_{j}.csv')
     print(f"{con.search}_{j}_extracted successfully")
 
 print()
 dfs = []
 
 for j in range(0,con.no_of_results,20):
-    df = pd.read_csv(f'meta_csv/meta_data_{con.search}_{j}.csv')
+    df = pd.read_csv(f'location_csv/meta_data_{con.search}_{j}.csv')
     dfs.append(df)
 
 combined_df = pd.concat(dfs, ignore_index=True)
 
 # Save the combined DataFrame to a new CSV file
-combined_df.to_csv(f'meta_csv/{con.search}_combined_output.csv', index=False)
+combined_df.to_csv(f'location_csv/{con.search}.csv', index=False)
 
 print("CSV files combined successfully!")
 print()
 for j in range(0,con.no_of_results,20):
-    os.remove(f'meta_csv/meta_data_{con.search}_{j}.csv')
+    os.remove(f'location_csv/meta_data_{con.search}_{j}.csv')
     print(f'meta_data_{con.search}_{j}.csv removed successfully')

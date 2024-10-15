@@ -1,0 +1,359 @@
+{
+    "search_metadata": {
+        "id": "670cce83fc40bf17d74f854b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b530e3cc67dc7f6c/670cce83fc40bf17d74f854b.json",
+        "created_at": "2024-10-14 07:55:47 UTC",
+        "processed_at": "2024-10-14 07:55:47 UTC",
+        "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x3bc2c011e49a2c75:0x44214e30246ddc31!5m2!4m1!1i2!9m1!1b1?hl=en&gl=",
+        "raw_html_file": "https://serpapi.com/searches/b530e3cc67dc7f6c/670cce83fc40bf17d74f854b.html",
+        "prettify_html_file": "https://serpapi.com/searches/b530e3cc67dc7f6c/670cce83fc40bf17d74f854b.prettify",
+        "total_time_taken": 0.55
+    },
+    "search_parameters": {
+        "engine": "google_maps_reviews",
+        "place_id": "ChIJdSya5BHAwjsRMdxtJDBOIUQ",
+        "hl": "en",
+        "sort_by": "ratingHigh"
+    },
+    "place_info": {
+        "title": "Shri Mahalaxmi Mandir, Pune",
+        "address": "Plot No. 38/B, opposite Sarasbaug, Dadawadi, Shukrawar Peth, Pune, Maharashtra 411002, India",
+        "rating": 4.8,
+        "reviews": 3159,
+        "type": "Hindu temple"
+    },
+    "topics": [
+        {
+            "keyword": "saraswati",
+            "mentions": 70,
+            "id": "/m/01kl7p"
+        },
+        {
+            "keyword": "goddess",
+            "mentions": 57,
+            "id": "/m/03bpv"
+        },
+        {
+            "keyword": "idols",
+            "mentions": 46,
+            "id": "/m/09xv7p"
+        },
+        {
+            "keyword": "navratri",
+            "mentions": 38,
+            "id": "/m/0432dw"
+        },
+        {
+            "keyword": "mahakali",
+            "mentions": 33,
+            "id": "/m/0dw8n2"
+        },
+        {
+            "keyword": "marble",
+            "mentions": 32,
+            "id": "/m/04tdh"
+        },
+        {
+            "keyword": "lakshmi",
+            "mentions": 20,
+            "id": "/m/0pjkc"
+        },
+        {
+            "keyword": "decoration",
+            "mentions": 18,
+            "id": "/m/05ykl4"
+        },
+        {
+            "keyword": "architecture",
+            "mentions": 17,
+            "id": "/m/03nfmq"
+        },
+        {
+            "keyword": "diwali",
+            "mentions": 10,
+            "id": "/m/019fpj"
+        }
+    ],
+    "reviews": [
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURud2ZmcWhRRRAB!2m1!1s0x0:0x44214e30246ddc31!3m1!1s2@1:CIHM0ogKEICAgIDnwffqhQE%7CCgwIkfCKuAYQ-ILwzQI%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "a week ago",
+            "iso_date": "2024-10-06T16:12:13Z",
+            "iso_date_of_last_edit": "2024-10-06T16:17:21Z",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPA9xFJCtVnWqRlO3Tsx-IOOdLp8qzn-abbppig=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMTO1QcIFtCIhvALufhoB7KxZ8TTWQt2k0fvME2=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNzM3uHo9I-s7oQpppzyub6pjHcVPYl0L9SNzAM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNYLl-a51QGwN-BLI7QqL8Bc6OqQMpY6gG-zlZQ=w150-h150-k-no-p"
+            ],
+            "source": "Google",
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURud2ZmcWhRRRAB",
+            "user": {
+                "name": "Parikshit Karande",
+                "link": "https://www.google.com/maps/contrib/108555600955564728329?hl=en-US",
+                "contributor_id": "108555600955564728329",
+                "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIJAnuu_MIElhYs8fWUjCxaB6X38dgF1eDvuQFTRTpefs1CV4RO=s120-c-rp-mo-ba6-br100",
+                "local_guide": true,
+                "reviews": 446,
+                "photos": 1754
+            },
+            "snippet": "Shri Mahalaxmi temple is very beautiful and filled with lots of positive vibes. It has all three goddesses in the temple.Godess Saraswati Godess Mahalaxmi Godess Mahakali.",
+            "extracted_snippet": {
+                "original": "Shri Mahalaxmi temple is very beautiful and filled with lots of positive vibes. It has all three goddesses in the temple.Godess Saraswati Godess Mahalaxmi Godess Mahakali."
+            },
+            "details": {
+                "visited_on": "Weekend",
+                "wait_time": "Up to 10 min",
+                "reservation_recommended": "No"
+            },
+            "likes": 0
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNsdmN6RVdBEAE!2m1!1s0x0:0x44214e30246ddc31!3m1!1s2@1:CIHM0ogKEICAgIClvczEWA%7CCgwIwfGFqwYQ-I32sQE%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "10 months ago",
+            "iso_date": "2023-11-25T04:29:30Z",
+            "iso_date_of_last_edit": "2023-11-25T04:32:01Z",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPv7DzlNgz9nws9-LAxpn8ZQWWNz8kUIZt_EJ2O=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNczeRloAQU84m99Gr_3zGggCv2bJnAT3IrrhdA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO0spVQlsvedzezbjWIOjmU077EFTac7fopFpxy=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPzj4V7rPOMrq1fSEV6jpt1JzlfWPRrShvk-736=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNBcMyaTtjtCTQKjJzBy_W6bpY_IeBMLRwQzeQA=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPoUgFGDnsyOrZUG-Mc6Atjy1bXGgs0aZuol2Ij=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVOEwXlx5TKKsxQDkajJrvXYlfvtusxaQsBGFj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP_6Yqbyy3uZQ90Ps6YXbA2pprzVxew6QdFuRhr=w150-h150-k-no-p"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsdmN6RVdBEAE",
+            "user": {
+                "name": "SWETA",
+                "link": "https://www.google.com/maps/contrib/116246369472044625892?hl=en-US",
+                "contributor_id": "116246369472044625892",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW3nkKEKkq5x_af0KZYdi18iU3CYdRCdFOARxm-mRi518BnJPu3=s120-c-rp-mo-ba4-br100",
+                "local_guide": true,
+                "reviews": 48,
+                "photos": 234
+            },
+            "snippet": "Sarasbaug has beautiful temples surrounded by food corners. Saraswati, Mahalaxmi, mahakali idols are here in the temple. Beautifully decorated every time during the festivals. Loved the tiles even though it was hot outside still stepping into the temple made me feel more devoted to goddess mahalaxmi.",
+            "extracted_snippet": {
+                "original": "Sarasbaug has beautiful temples surrounded by food corners. Saraswati, Mahalaxmi, mahakali idols are here in the temple. Beautifully decorated every time during the festivals. Loved the tiles even though it was hot outside still stepping into the temple made me feel more devoted to goddess mahalaxmi."
+            },
+            "likes": 0
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUROeXNHMERREAE!2m1!1s0x0:0x44214e30246ddc31!3m1!1s2@1:CIHM0ogKEICAgIDNysG0DQ%7CCgsIm9O0rQYQoMGlXw%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "8 months ago",
+            "iso_date": "2024-01-21T14:26:18Z",
+            "iso_date_of_last_edit": "2024-01-21T14:26:35Z",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNOrALs7kBf-gmMKZSAtweBAvsIIxvWxMSzdxGQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO4TE_t5ChiwZD5KOQjPjimWg8p8b3tslhxeqNM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOVRT_2ChQTC29MQfZefr2jIBB_rBTvSiFsEo5z=w150-h150-k-no-p"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROeXNHMERREAE",
+            "user": {
+                "name": "Mukesh Rai",
+                "link": "https://www.google.com/maps/contrib/106579564870789476698?hl=en-US",
+                "contributor_id": "106579564870789476698",
+                "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLQccNiX9CaY5Mw-trqv2JjTa8ec9rBPbcj-gmiBeujpgnK4oEu=s120-c-rp-mo-ba5-br100",
+                "local_guide": true,
+                "reviews": 138,
+                "photos": 500
+            },
+            "snippet": "The temple of Mahalakshmi Mata is amazing, the atmosphere is fantastic,The space is small so that not many devotees can be present at the same time.I go here almost most of the time and I feel very relaxed here. If you get a chance then definitely go here.",
+            "extracted_snippet": {
+                "original": "The temple of Mahalakshmi Mata is amazing, the atmosphere is fantastic,The space is small so that not many devotees can be present at the same time.I go here almost most of the time and I feel very relaxed here. If you get a chance then definitely go here."
+            },
+            "details": {
+                "visited_on": "Weekday",
+                "wait_time": "No wait",
+                "reservation_recommended": "No"
+            },
+            "likes": 2
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNKbFBuZml3RRAB!2m1!1s0x0:0x44214e30246ddc31!3m1!1s2@1:CIHM0ogKEICAgICJlPnfiwE%7CCgsItpSQtAYQ8POdQg%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "3 months ago",
+            "iso_date": "2023-06-21T14:04:06Z",
+            "iso_date_of_last_edit": "2024-07-02T14:09:58Z",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOZz7-MERmnbvdWYwLMi9_xXDBkbDIrvbxYt-8u=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM0Pmwz8zy9-U-6ytybvjWD7IvwSbq7yp2cRP79=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMSiakRWCKCXAlwzVVylGvuXv0t1FWpyvj9QwI6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNLZS8dAwOUbGvyfThr5fvbKQz85B50CH-a4HZO=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOn490NJoS_mSP9NJKiz8Emy93PRgAreoKNwD3V=w150-h150-k-no-p"
+            ],
+            "source": "Google",
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbFBuZml3RRAB",
+            "user": {
+                "name": "amar hajgude",
+                "link": "https://www.google.com/maps/contrib/105577169793657464356?hl=en-US",
+                "contributor_id": "105577169793657464356",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU18sRIqZwraznQnaT0l_rWKhnODxyXjhMxTVI7YxvDEZkKIBM=s120-c-rp-mo-ba5-br100",
+                "local_guide": true,
+                "reviews": 148,
+                "photos": 503
+            },
+            "snippet": "*** Highly Recommended ***\n\nPune SarasBaug\n\nSeek the blessings today.\n\nDivine Serinity.\n\nFeel blissful and stay blessed.\n\nMost beautiful temple of the Godess Tri Shakti.\n\nTemple of Tri Shakti : Godess Kali, Laxmi, Saraswati.\n\n1 km from Swargate Bus Stand.\n\nRight in Front of Sarasbaug...",
+            "extracted_snippet": {
+                "original": "*** Highly Recommended ***\n\nPune SarasBaug\n\nSeek the blessings today.\n\nDivine Serinity.\n\nFeel blissful and stay blessed.\n\nMost beautiful temple of the Godess Tri Shakti.\n\nTemple of Tri Shakti : Godess Kali, Laxmi, Saraswati.\n\n1 km from Swargate Bus Stand.\n\nRight in Front of Sarasbaug..."
+            },
+            "details": {
+                "visited_on": "Public holiday",
+                "wait_time": "No wait",
+                "reservation_recommended": "No"
+            },
+            "likes": 1
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUN6NlozWEZ3EAE!2m1!1s0x0:0x44214e30246ddc31!3m1!1s2@1:CIHM0ogKEICAgICz6Z3XFw%7CCgwIgc71sgYQwM39nwM%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "4 months ago",
+            "iso_date": "2024-06-03T06:47:29Z",
+            "iso_date_of_last_edit": "2024-06-03T06:47:29Z",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMfVYEe8b1tubEhK4H5XiaMtPy1iihrrUdSaour=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO-Hoc7rmRr15s9UUc0I6K2CQoL4D0oeG_1CVIN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM83_g5U_EoME8VQRWfQbgojkDDdNtft-5lWskp=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMF0891GYRFOxdEQDSZEZgz7Jx49bJyTxkMp7X8=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPnJq8MzXu9hWcwENaHRIJuEe26AANQ4s0hXQpM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPIdUMhOIa7OtRAPUWB_cGO39Ng5advEY4HYuXJ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNNu39Fufica3UI7YnInwV5-z-BSqOvSJoLAEvb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPRzyZTERR3CBx7jGA0wQFBFoE1NECgvUuYsLrn=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPAVl-Lbu0MLophZ812FtVA5EDqVj_nk_7tmvZm=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMrHHa0oJfKlOV8O5ySVcIJ3WsQxbO9ZCiJgLwj=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM_HGJZu34X0tG5QaKVHs-kLxPT7LsfKQIwjuIg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNRRt7b0zOwqMLk7ja8iJrg1tmtR0SfFrdQPZJt=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMEN5kqucXVe1sGASPw9xxbaZNU6PoimzxdPcOP=w150-h150-k-no-p"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6NlozWEZ3EAE",
+            "user": {
+                "name": "Ganesh Patil",
+                "link": "https://www.google.com/maps/contrib/106149116187403240260?hl=en-US",
+                "contributor_id": "106149116187403240260",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVwX_6PgUDgH86KNVSU-Ky1OKbEXocdXopCYwUp8Ddc15WwR29C=s120-c-rp-mo-ba4-br100",
+                "local_guide": true,
+                "reviews": 125,
+                "photos": 115
+            },
+            "snippet": "Maa Laxmi Temple infrant of Oldest Garden of Pune's Saras Bag.",
+            "extracted_snippet": {
+                "original": "Maa Laxmi Temple infrant of Oldest Garden of Pune's Saras Bag."
+            },
+            "details": {
+                "wait_time": "No wait",
+                "reservation_recommended": "No"
+            },
+            "likes": 0
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNseDR1ZXhRRRAB!2m1!1s0x0:0x44214e30246ddc31!3m1!1s2@1:CIHM0ogKEICAgIClx4uexQE%7CCgwIop6cqwYQkNvFpAM%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "10 months ago",
+            "iso_date": "2023-11-28T10:09:48Z",
+            "iso_date_of_last_edit": "2023-11-29T10:14:58Z",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMUR8LymKJcAp1rajFF_k4TQnh7QY27CW7SWliN=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipN6hPVg89b6jFAyCEc2wdjs9u01nzVBIh0vyqHQ=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMXhUyhr5nYJsFkfyVKkuOLmPJk8gjoKAuHtTH0=w150-h150-k-no-p"
+            ],
+            "source": "Google",
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNseDR1ZXhRRRAB",
+            "user": {
+                "name": "Bhavesh Kamble",
+                "link": "https://www.google.com/maps/contrib/112811610510923583842?hl=en-US",
+                "contributor_id": "112811610510923583842",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXOFLDlubQxG0pdCGrGdEtA-dpaHdzNUo2NJxhN3VJEQ1U2oBCb=s120-c-rp-mo-ba5-br100",
+                "local_guide": true,
+                "reviews": 73,
+                "photos": 769
+            },
+            "snippet": "Very beautiful temple with very finely sculptured idols of godess Mahalaxmi, Kali mata and Saraswati Devi. Temple is surrounded with some other delicately sculpted statues of Sant Tukaram, Sant Dnyaneshwar, Sant Ramdas and many more. Great place in centre of the city for seeking peace out of day to day busy life.",
+            "extracted_snippet": {
+                "original": "Very beautiful temple with very finely sculptured idols of godess Mahalaxmi, Kali mata and Saraswati Devi. Temple is surrounded with some other delicately sculpted statues of Sant Tukaram, Sant Dnyaneshwar, Sant Ramdas and many more. Great place in centre of the city for seeking peace out of day to day busy life."
+            },
+            "details": {
+                "visited_on": "Weekday",
+                "wait_time": "No wait",
+                "reservation_recommended": "No"
+            },
+            "likes": 1
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuZ2FPdVBnEAE!2m1!1s0x0:0x44214e30246ddc31!3m1!1s2@1:CIHM0ogKEICAgIDngaOuPg%7CCgwI-62KuAYQqN_YzAE%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "a week ago",
+            "iso_date": "2024-10-06T13:56:11Z",
+            "iso_date_of_last_edit": "2024-10-06T13:56:11Z",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOADOkBk1ClzvP05DwqVK_l7t8cJmX27ICQ91Kh=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMdUFxYxFfu0jCPBLkASiWNbctSjIlvykHKxDfg=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNxqkSbBwahziRBXwr3s5iIZ50XyCULgRk5rZO6=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMjANaFhOIPnBXXlLE6bYXNFEx2Q01GSkunvFzb=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMWDNdxRtGbrSFXM2cw2ukPHSxAhSCTsnMCEZkf=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMHMjcN_C7cihMN0Nn2ylBFkAnssCjkc6SS7aF4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP7I-Rg_M98nhlPp30jAM6WCdVIQ5iX7alofkco=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOTjIOnRYxwQ8LwZdAh89taGhDLYkNUkPzZdi8H=w150-h150-k-no-p"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuZ2FPdVBnEAE",
+            "user": {
+                "name": "Bullet Foodie",
+                "link": "https://www.google.com/maps/contrib/115969431229943485706?hl=en-US",
+                "contributor_id": "115969431229943485706",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVfTXuMqA7OqZt74yJR3wtgbk-6mwCXdt_sTDYwT3bM9zj4xlU=s120-c-rp-mo-ba5-br100",
+                "local_guide": true,
+                "reviews": 110,
+                "photos": 523
+            },
+            "snippet": "Such a beautiful and peaceful temple",
+            "extracted_snippet": {
+                "original": "Such a beautiful and peaceful temple"
+            },
+            "details": {
+                "visited_on": "Weekend",
+                "wait_time": "Up to 10 min",
+                "reservation_recommended": "No"
+            },
+            "likes": 0
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURuLTZMS0hREAE!2m1!1s0x0:0x44214e30246ddc31!3m1!1s2@1:CIHM0ogKEICAgIDn-6LKHQ%7CCgwIzfOfuAYQiOG6-QI%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "3 days ago",
+            "iso_date": "2024-10-10T15:59:09Z",
+            "iso_date_of_last_edit": "2024-10-10T15:59:09Z",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPv5ER34NzJPi7G9MyDI26UeEzUg9KMgaddd8-A=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipM1_gvqbvEmtaJ6l7DVphNfRWwRepIWweiMyUyP=w150-h150-k-no-p"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLTZMS0hREAE",
+            "user": {
+                "name": "Vatsala Sharma",
+                "link": "https://www.google.com/maps/contrib/101500072692516363228?hl=en-US",
+                "contributor_id": "101500072692516363228",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWR_tJ5H5LtcXyYNFswJE8OzKRwhHVTnVQi3jD30WLYajEv-U5ufg=s120-c-rp-mo-ba3-br100",
+                "local_guide": true,
+                "reviews": 21,
+                "photos": 67
+            },
+            "snippet": "Loved the divineful darshan of maa",
+            "extracted_snippet": {
+                "original": "Loved the divineful darshan of maa"
+            },
+            "likes": 0
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps_reviews&hl=en&next_page_token=CAESBkVnSUlDQQ%3D%3D&place_id=ChIJdSya5BHAwjsRMdxtJDBOIUQ&sort_by=ratingHigh",
+        "next_page_token": "CAESBkVnSUlDQQ=="
+    }
+}
